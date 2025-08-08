@@ -1,8 +1,8 @@
-# Housing Prices Predictor
+# Housing Prices Predictor by Ishan
 
 ## About
 
-This project uses a machine learning model to predict housing prices based on various features such as house size, number of bedrooms, and location. The model is trained on a dataset of housing prices and features, and can be used to make predictions on new, unseen data.
+This project uses a machine learning model to predict housing prices based on various features. The model is trained on a dataset of housing prices and features, and can be used to make predictions on new, unseen data.
 
 ## How it Works
 
