@@ -17,11 +17,13 @@ Here is a high-level overview of the steps involved in training and using the mo
 
 ## Model Architecture
 
-The model architecture is a simple linear regression model with the following features:
+The model architecture is a simple linear regression model with the following features*:
 
 * **House Size**: The size of the house in square feet.
 * **Number of Bedrooms**: The number of bedrooms in the house.
 * **Location**: The location of the house, including the city, state, and zip code.
+
+*currently in development
 
 ## Graphed Outputs
 
