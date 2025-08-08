@@ -31,9 +31,7 @@ Here are some graphed outputs from the model:
 
 ![House Price vs House Size](output.png)
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Demo Snapshots
 
@@ -46,8 +44,13 @@ Here are some demo snapshots of the graphed outputs:
 This project was created by [Ishan Arya](https://github.com/Ish45883)
 Credits: [Codedex](https://www.codedex.io/projects/predict-home-prices-with-python-and-linear-regression)
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Dataset
 
 The dataset used in this project is the [Housing Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) from Kaggle.
 
 *This document was created using the assistance of OpenAI
+
